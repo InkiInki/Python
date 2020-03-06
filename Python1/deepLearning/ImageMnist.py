@@ -1,12 +1,10 @@
 '''
 @(#)test.py
 The class of test.
-Author: Yu-Xuan Zhang
+Author: inki
 Email: inki.yinji@qq.com
 Created on May 05, 2020
-Last Modified on May 05, 2020
-
-@author: inki
+Last Modified on May 06, 2020
 '''
 import torch
 import torchvision

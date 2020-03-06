@@ -1,12 +1,10 @@
 '''
 @(#)test1.py
 The class of test.
-Author: Yu-Xuan Zhang
+Author: inki
 Email: inki.yinji@qq.com
 Created on May 4, 2020
 Last Modified on May 4, 2020
-
-@author: inki
 '''
 import torch
 import numpy as np
